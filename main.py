@@ -40,6 +40,7 @@ elif yearborn == (2014): # or (2002) or (2026):
 
 #end of self evaluaition
 
+
 friend_born = (int(input("What year was your friend born?")))
 
 if friend_born == (2003): #or (1991) or (2015):
@@ -78,6 +79,18 @@ elif friend_born == (2013): # or (2001) or (2025):
 elif friend_born == (2014): # or (2002) or (2026):
     print("Your friend is a Horse!")
 
+#matching sequencing.
 
+if yearborn == 2003 and friend_born == 2003:
+    print("You two are considered a heavenly match!")
+
+if yearborn == 2003 and friend_born == 2011:
+    print("You two are considered a heavenly match!")
+
+if yearborn == 2003 and friend_born == 2007:
+    print("You two are considered a heavenly match!")
+
+if yearborn == 2003 and friend_born == 2008:
+    print("You two are considered to gossip on each other! You two aren't a good match.")
 
 
