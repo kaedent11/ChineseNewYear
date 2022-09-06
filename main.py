@@ -38,6 +38,45 @@ elif yearborn == (2013): # or (2001) or (2025):
 elif yearborn == (2014): # or (2002) or (2026):
     print("You're a Horse!")
 
+#end of self evaluaition
+
+friend_born = (int(input("What year was your friend born?")))
+
+if friend_born == (2003): #or (1991) or (2015):
+    print("Your friend is a Goat!")
+
+elif friend_born == (2004): #or (1992) or (2016):
+    print("Your friend is a Monkey!")
+
+elif friend_born == (2005): #or (1993) or (2017):
+    print("Your friend is a Rooster!")
+
+elif friend_born == (2006): # or (1994) or (2018):
+    print("Your friend is a Dog!")
+
+elif friend_born == (2007): # or (1995) or (2019):
+    print("Your friend is a Pig!")
+
+elif friend_born == (2008): # or (1996) or (2020):
+    print("Your friend is a Rat!")
+
+elif friend_born == (2009): # or (1997) or (2021):
+    print("Your friend is an Ox!")
+
+elif friend_born == (2010): # or (1998) or (2022):
+    print("Your friend is a Tiger!")
+
+elif friend_born == (2011): # or (1999) or (2023):
+    print("Your friend is a Rabbit!")
+
+elif friend_born == (2012): # or (2000) or (2024):
+    print("Your friend is a Dragon!")
+
+elif friend_born == (2013): # or (2001) or (2025):
+    print("Your friend is a Snake!")
+
+elif friend_born == (2014): # or (2002) or (2026):
+    print("Your friend is a Horse!")
 
 
 
